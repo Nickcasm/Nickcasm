@@ -11,7 +11,6 @@ He/His
 - Developed End to end SAPUI5 projects.
 - Worked in Python,Java,Javascript,SAPUI5,SAP Fiori.
 - Implemented deployment processes.
-- Leading team of 15 members.
 
 ### ⚡ One line that describes me best? 
 I never give up until I get something right..😉😉
